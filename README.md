@@ -53,12 +53,12 @@ Remember, that people will probably judge your github project page within 20 sec
 
 Write documentation that looks like someone you would want to work with.
 
-* Link to an imag here
+* Link to an image here
 
 Try to also write your information in a way that as you read down the page, the information becomes less and less vital to getting the whole point of the project.
 AKA 
 
-**DO NOT PUT THE GOOD BITS OF YOUR PROJECT BURRIED AWAY AT THE BOTTOM OF YOUR README, YOU ARE NOT WRITING A DECTIVE NOVEL**
+**DO NOT PUT THE GOOD BITS OF YOUR PROJECT BURRIED AWAY AT THE BOTTOM OF YOUR README, YOU ARE NOT WRITING A DETECTIVE NOVEL**
 
 
 
