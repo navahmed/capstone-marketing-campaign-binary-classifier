@@ -45,26 +45,18 @@ The goal of this project was to create a `regression/classification` model that 
 > 3. You show off your analystical and modeling chops.
 > 4. You are able to communicate technical things you do.
 
+### More Information
 
-## Business Understanding
+Below your Executive Summary, you can document whatever you feel would be of interest to a future employer.
+Here I would especially suggest diving a bit deeper into your methodology and including images that you are proud of from the project. 
+Remember, that people will probably judge your github project page within 20 seconds tops, you want it to look as clean as possible.
 
-## Data Understanding
+Write documentation that looks like someone you would want to work with.
 
-## Data Preparation
+* Link to an imag here
 
-## Modeling
-
-## Evaluation
-
-## README 
-
-## Notebook Content
-
-## Presentation Content
-
-## Presenation Style
-
-## Sourcing 
+Try to also write your information in a way that as you read down the page, the information becomes less and less vital to getting the whole point of the project.
+AKA *DO NOT PUT THE GOOD BITS OF YOUR PROJECT BURRIED AWAY AT THE BOTTOM OF YOUR README, YOU ARE NOT WRITING A DECTIVE NOVEL*. 
 
 
 
