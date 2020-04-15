@@ -9,7 +9,7 @@ The way to use this template is to just copy and paste it (don't fork it, you do
 We also suggest if you need direction to check out the `Project Checklist` markdown file as well as the [Capstone Questions]() document for help building this project. 
 Both this boiler plate and the checklist in `here` were built simultaneously, so feel free to use them in tandem. 
 
-> Eventually you will delete everything above this line. This is just here to introduce the boilerplate. 
+> Eventually you will delete everything above this line. This is just here to introduce the boilerplate. We also suggest deleting any other indentations like this. There are more there to get you thinking about the 'point' of the section. 
 
 # The Title of Your Project Goes Here 
 
