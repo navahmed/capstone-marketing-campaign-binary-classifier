@@ -51,17 +51,14 @@ The goal of this project was to create a `regression/classification` model that 
 
 Below your Executive Summary, you can document whatever you feel would be of interest to a future employer.
 Here I would especially suggest diving a bit deeper into your methodology and including images that you are proud of from the project. 
-Remember, that people will probably judge your github project page within 20 seconds tops, you want it to look as clean as possible.
+Remember, that people will probably judge your github project page within 45 seconds tops, you want it to look as clean as possible. 
 
 Write documentation that looks like someone you would want to work with.
 
-* Link to an image here
+![Everyone Likes a Pairplot](figures/seaborn-pairplot-3.png)
 
-Try to also write your information in a way that as you read down the page, the information becomes less and less vital to getting the whole point of the project.
-AKA 
+> Image taken from `seaborn` [documentation](https://seaborn.pydata.org/generated/seaborn.pairplot.html)
 
 **DO NOT PUT THE GOOD BITS OF YOUR PROJECT BURRIED AWAY AT THE BOTTOM OF YOUR README, YOU ARE NOT WRITING A DETECTIVE NOVEL**
-
-
 
 
