@@ -10,7 +10,6 @@ We also suggest if you need direction to check out the `Project Checklist` markd
 Both this boiler plate and the checklist were built simultaneously, so feel free to use them in tandem. 
 
 > Eventually you will delete everything above this line. This is just here to introduce the boilerplate. We also suggest deleting any other indentations like this. There are more there to get you thinking about the 'point' of the section. 
-
 # The Title of Your Project Goes Here 
 
 One sentence summary goes here saying what you did.
@@ -54,6 +53,8 @@ Here I would especially suggest diving a bit deeper into your methodology and in
 Remember, that people will probably judge your github project page within 45 seconds tops, you want it to look as clean as possible. 
 
 Write documentation that looks like someone you would want to work with.
+
+### Show Off Your Data Viz
 
 ![Everyone Likes a Pairplot](figures/seaborn-pairplot-3.png)
 
