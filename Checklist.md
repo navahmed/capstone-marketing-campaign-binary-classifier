@@ -132,9 +132,14 @@ There are a few ways you might accomplish this:
 
 * [ ] Try to run your code on a computer that is not your own.
 * [ ] Include all software dependencies in your README
-* [ ] Deploy your app using [Streamlit]() 
-* [ ] Deploy your model using [Heroku]()
-* [ ] Use [Binder]() to host your `Evaluation` notebook
+* [ ] Deploy your app using [Streamlit](https://www.streamlit.io/) 
+* [ ] Deploy your model using [Heroku](https://www.heroku.com/)
+* [ ] Use [Binder](https://mybinder.readthedocs.io/en/latest/introduction.html) to host your `Evaluation` notebook
 
+## Treat Yourself
+
+If you are able to tick off all these boxes, make sure to treat yourself.
+
+* [ ] Treated myself 
  
 
