@@ -69,27 +69,27 @@ The dataset that we used for our analysis can be found here.
 
 The features available in this data set is as follows
 
--age: Age of the customer
--job: Job of the customer
--marital: Marital status of the customer
--education: Highest educationa attained by the customer
--default: Has the customer defaulted previously?
--housing: Does the customer have a housing loan?
--loan: Does the customer have any existing loans?
--contact: Was the customer contacted by mobile or telephone?
--month: What month of the year was the customer previously?
--day_of_week: What day of the week was the customer contacter previously?
--duration: Duration of last call in seconds.
--campaign: Number of times the customer was contacted on this campaign
--pdays: Number of days that passed by after the customer was last contacted from a previous campaign
--previous: Number of contacts performed before this campaign and for this customer
--poutcome: Outcome of previous campaign
--emp.var.rate: Employment varition rate.
--cons.price.idx: Consumer Price Index
--cons.conf.idx: Consumer Confidence Index
--euribor3m: 3m EURIBOR fixing
--nr.employed: Number of employees
--y: Has the customer subsribed on this campaign (This is our target variable)
+- age: Age of the customer
+- job: Job of the customer
+- marital: Marital status of the customer
+- education: Highest educationa attained by the customer
+- default: Has the customer defaulted previously?
+- housing: Does the customer have a housing loan?
+- loan: Does the customer have any existing loans?
+- contact: Was the customer contacted by mobile or telephone?
+- month: What month of the year was the customer previously?
+- day_of_week: What day of the week was the customer contacter previously?
+- duration: Duration of last call in seconds.
+- campaign: Number of times the customer was contacted on this campaign
+- pdays: Number of days that passed by after the customer was last contacted from a previous campaign
+- previous: Number of contacts performed before this campaign and for this customer
+- poutcome: Outcome of previous campaign
+- emp.var.rate: Employment varition rate.
+- cons.price.idx: Consumer Price Index
+- cons.conf.idx: Consumer Confidence Index
+- euribor3m: 3m EURIBOR fixing
+- nr.employed: Number of employees
+- y: Has the customer subsribed on this campaign (This is our target variable)
 
        
 In order to bring more scope into the project, and make it more widely usable, We decided to supplant the existing data set with additional economic data from Portugal and the Eurozone.
