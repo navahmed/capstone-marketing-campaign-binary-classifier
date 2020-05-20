@@ -11,18 +11,18 @@
 
 ### Navigating the Git Hub Repository
 
--Jupyter Notebooks: The main Jupyter Notebooks can be found in the Notebooks folder.
-  -01 Data Cleaning.ipynb
-  -02 Data Visualisations.ipynb
-  -03 Feat_Engineer.ipynb
-  -04 Modelling.ipynb
+- Jupyter Notebooks: The main Jupyter Notebooks can be found in the Notebooks folder.
+  - 01 Data Cleaning.ipynb
+  - 02 Data Visualisations.ipynb
+  - 03 Feat_Engineer.ipynb
+  - 04 Modelling.ipynb
  
- -Data: The relevant CSV files can be found in the Data Folder.
-  -bank-additional-full.csv
-  -LIBOR EUR.csv
-  -Portugal_Eurozone_data.csv
-  -data_feat.csv
-  -data_final.csv
+ - Data: The relevant CSV files can be found in the Data Folder.
+  - bank-additional-full.csv
+  - LIBOR EUR.csv
+  - Portugal_Eurozone_data.csv
+  - data_feat.csv
+  - data_final.csv
   
  - Original Kaggle Dataset Notebook: We ran the model using the original dataset on Kaggle. Notebooks of that analysis can be found here.
   - Data Cleaning and EDA.ipynb
@@ -30,14 +30,14 @@
   
   - Original Kaggle Datasert Data: CSV files for the model using the original dataset on Kaggle.
    - bank-cleaned.csv
-   -bank-full.csv
-   -bank2.csv
-   -data2.csv
+   - bank-full.csv
+   - bank2.csv
+   - data2.csv
    
-  -Presentations: Folder for presentation of the project.
-    -presentation.pdf
+  - Presentations: Folder for presentation of the project.
+    - presentation.pdf
     
-  -README.md
+  - README.md
 
 ### Executive Summary
 
