@@ -18,24 +18,24 @@
   - 04 Modelling.ipynb
  
  - Data: The relevant CSV files can be found in the Data Folder.
-  - bank-additional-full.csv
-  - LIBOR EUR.csv
-  - Portugal_Eurozone_data.csv
-  - data_feat.csv
-  - data_final.csv
+    - bank-additional-full.csv
+    - LIBOR EUR.csv
+    - Portugal_Eurozone_data.csv
+    - data_feat.csv
+    - data_final.csv
   
  - Original Kaggle Dataset Notebook: We ran the model using the original dataset on Kaggle. Notebooks of that analysis can be found here.
-  - Data Cleaning and EDA.ipynb
-  - Feature Engineering and Baseline.ipynb
+    - Data Cleaning and EDA.ipynb
+    - Feature Engineering and Baseline.ipynb
   
   - Original Kaggle Datasert Data: CSV files for the model using the original dataset on Kaggle.
-   - bank-cleaned.csv
-   - bank-full.csv
-   - bank2.csv
-   - data2.csv
+    - bank-cleaned.csv
+    - bank-full.csv
+    - bank2.csv
+    - data2.csv
    
   - Presentations: Folder for presentation of the project.
-    - presentation.pdf
+      - presentation.pdf
     
   - README.md
 
