@@ -1,5 +1,9 @@
 # Marketing Campaign Success Predictor
 
+Naweed Ahmed
+Email: naweed.ahmed83@gmail.com
+Linekdin: https://www.linkedin.com/in/naweedahmed
+
 ## Table of Contents
 
 1) Navigating the Git Hub Repository
