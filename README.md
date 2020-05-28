@@ -157,6 +157,8 @@ After hyperparameter tuning with GridSearch CV, we improved the performance usin
 
 The following table shows a summary of all the models we ran.
 
+![](/Images/Results_Summary.png)
+
 ### Evaluation
 
 The figure below represents the importance of each feature on the hyperparameter tuned Random Forest model.
