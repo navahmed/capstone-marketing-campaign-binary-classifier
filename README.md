@@ -161,7 +161,7 @@ The following table shows a summary of all the models we ran.
 
 The figure below represents the importance of each feature on the hyperparameter tuned Random Forest model.
 
-![feature importances](./Images/Feature_importance.png)
+! [feature importances](./Images/Feature_importance.png)
 
 As expected, the most important feature influencing an individuals decision to place a term deposit is the interest rate the customer received in the euribor3m column. Furthermore, Feature_2, which is the additional feature we created out of Personal Savings, Wages and Unemployment Rate. Again, this is as expected, as these economic variables would represent an individuals ability to place a term deposit.
 
